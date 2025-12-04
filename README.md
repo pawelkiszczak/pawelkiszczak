@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Paweł Kiszczak  
 
-**Data Scientist @ [Deviniti](https://deviniti.com)**  
-**Member of [SpeakLeash Foundation](https://speakleash.org) | [Bielik.AI](https://bielik.ai) Team**
+**Data Scientist / AI Engineer**  
+**Community Member of [SpeakLeash Foundation](https://speakleash.org) | [Bielik.AI](https://bielik.ai) Team**
 
 ---
 
