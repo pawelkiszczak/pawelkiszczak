@@ -1,48 +1,55 @@
 # 👋 Hi, I'm Paweł Kiszczak  
 
-**Data Scientist / AI Engineer**  
-**Community Member of [SpeakLeash Foundation](https://speakleash.org) | [Bielik.AI](https://bielik.ai) Team**
+**Agentic AI/ML Engineer | AI Engineer @ [SpeakLeash](https://speakleash.org) & [Bielik.AI](https://bielik.ai)** 
+
+**Specializing in AI Agents, LLM Orchestration, and Autonomous Systems**
 
 ---
 
 ### 🧠 About Me  
-I'm an engineer and data scientist passionate about **AI applications, language models, and intelligent automation**.  
-I combine a strong technical foundation in mechatronics with hands-on experience in **machine learning**, **data engineering**, and **AI system design**.  
 
-At Deviniti, I focus on **building and integrating AI-driven solutions** for enterprise clients, both in cloud and on-prem environments.  
-As part of the **SpeakLeash Foundation** and **Bielik.AI**, I contribute to the development of an **open Polish family of language models**, supporting national and community-based AI initiatives.
+I'm an engineer and data scientist passionate about the next frontier of artificial intelligence: **Agentic workflows and autonomous AI systems**. With a strong technical foundation in mechatronics and years of hands-on experience in AI/ML, I bridge the gap between complex engineering and cutting-edge software.
+
+Currently, at **Vstorm**, I focus on building **Agentic AI solutions**, utilizing advanced orchestrators, tools, and technologies like the Model Context Protocol (MCP) to solve real-world problems.
+
+As a core member of the **SpeakLeash Foundation** and **Bielik.AI** team, I actively contribute to the development of the **open Polish family of Large Language Models**, supporting national and community-driven AI research.
 
 💡 I’m especially interested in:
-- Building **RAG (Retrieval-Augmented Generation)** systems and domain-specific LLM pipelines  
-- Developing and optimizing **AI microservices** for NLP and multimodal analysis  
-- Supporting **open-source AI ecosystems** and Polish-language research projects  
-- Deepening my understanding of the **algorithms and architectures** behind current **state-of-the-art AI models**
+
+* **Agentic AI Frameworks**: Building autonomous agents, multi-agent systems, and tool-use integration.
+* **Advanced RAG & LLM Ops**: Designing domain-specific pipelines and scalable AI microservices.
+* **MCP (Model Context Protocol)**: Implementing standardized ways for agents to interact with data and tools.
+* **Open-Source AI**: Strengthening the Polish-language AI ecosystem through Bielik and SpeakLeash.
 
 ---
 
 ### 🧩 Current Roles
-- **Data Scientist @ Deviniti** – Developing AI solutions for enterprise workflows  
-- **AI Engineer @ SpeakLeash Foundation** – Working on open Polish LLMs and datasets  
-- **AI Engineer @ Bielik.AI** – Designing and deploying scalable NLP systems  
+
+* **Agentic AI/ML Engineer @ Vstorm** – Developing agentic systems and AI orchestrators.
+* **AI Engineer @ SpeakLeash Foundation** – Working on open, Polish datasets.
+* **AI Engineer @ Bielik.AI** – Supporting the deep-tech team in their endeavours & cooperating with international partners.
+* **AI Consultant @ Paweł Kiszczak Software** – Independent AI/ML engineering and system design specialist.  
 
 ---
 
 ### 🏗️ Past Experience
-Before moving fully into AI, I spent several years at **Endress+Hauser**, where I managed projects in industrial automation, e-business, and sales engineering — connecting technology with practical business outcomes.  
 
-This background helps me approach AI not just as research, but as a **bridge between innovation and real-world impact**.
+* **Data Scientist @ Deviniti** (2024–2025) – Developed R&D-driven AI solutions for enterprise clients with focus on on-premise type solutions.
+* **Industrial Background**: Before transitioning fully into AI, I spent several years at **Endress+Hauser**, managing complex projects in industrial automation and e-business. This unique mix allows me to build AI that is not only innovative but also robust and business-oriented.
 
 ---
 
 ### 🎤 Public Speaking
-I’m an active speaker in the Polish AI community and often talk about:
-- The **evolution of Polish language models** (e.g., Bielik)  
-- **AI for everyday use** — practical applications for everyone  
-- **Open innovation** and local AI ecosystems  
-- **Enterprise AI systems** and their real-world use cases  
+
+I’m an active speaker in the Polish AI community, sharing knowledge on:
+
+* The evolution and future of **Polish LLMs (Bielik)**.
+* **Agentic AI**: How to move from simple prompts to autonomous systems.
+* **Enterprise AI**: Real-world implementation of RAG and AI microservices. 
 
 ---
 
 ### 🌍 Connect with Me
+
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pawel-kiszczak/)  
 - 💻 [GitHub Projects](https://github.com/pawel-kiszczak)  
